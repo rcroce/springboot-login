@@ -1,0 +1,30 @@
+# eclipse project file
+.settings/
+.classpath
+.project
+.loadpath
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Maven 
+target/
+
+# Binaries
+*.jar
+*.war
+*.ear
+*.class
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
